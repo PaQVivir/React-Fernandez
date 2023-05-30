@@ -1,0 +1,74 @@
+[
+    {
+        "idx": 1,
+        "titulo": "Rack Mendoza",
+        "descripcion": "Confeccionado con Pino o MDF de primera Calidad",
+        "imagen":"https://papelmadera2.mitiendanube.com/productos/mendoza-rack1/",
+        "precio": 24900,
+        "categoria": "Racks"
+    },
+    {
+        "idx": 2,
+        "titulo": "Rack San Juan",
+        "descripcion": "Confeccionado con Pino o MDF de primera Calidad",
+        "imagen": "https://papelmadera2.mitiendanube.com/productos/san-juan-rack1/",
+        "precio": 21900,
+        "categoria": "Racks"  
+    },
+    {
+        "idx": 3,
+        "titulo": "Rack Cordoba",
+        "descripcion": "Confeccionado con Pino o MDF de primera Calidad",
+        "imagen": "https://papelmadera2.mitiendanube.com/productos/cordoba-rack1/",
+        "precio": 24400,
+        "categoria": "Racks"  
+    },
+    {
+        "idx": 4,
+        "titulo": "Respaldar Quito",
+        "descripcion": "Confeccionado con Pino de primera Calidad",
+        "imagen": "https://papelmadera2.mitiendanube.com/productos/quito-respaldo/",
+        "precio": 34000,
+        "categoria": "Respaldo"  
+    },
+    {
+        "idx": 5,
+        "titulo": "Respaldo Aniba",
+        "descripcion": "Confeccionado con MDF de primera Calidad",
+        "imagen": "https://papelmadera2.mitiendanube.com/productos/aniba-respaldo/",
+        "precio": 39000,
+        "categoria": "Respaldo"  
+    },
+    {
+        "idx": 6,
+        "titulo": "Respaldo Manta",
+        "descripcion": "Confeccionado con MADERA DE PINO MACIZA 2 CM DE ESPESOR primera Calidad",
+        "imagen": "https://papelmadera2.mitiendanube.com/productos/manta-respaldo-sommier/",
+        "precio": 31500,
+        "categoria": "Respaldo"  
+    },
+    {
+        "idx": 7,
+        "titulo": "Mesa Guadalajara",
+        "descripcion": "Confeccionado con Pino y Caño estructural de 30x30 de primera Calidad",
+        "imagen": "https://papelmadera2.mitiendanube.com/productos/guadalajara-mesa1/",
+        "precio": 38000,
+        "categoria": "Mesas"  
+    },
+    {
+        "idx": 8,
+        "titulo": "Mesa Monterrey",
+        "descripcion": "Confeccionado con Pino y Caño estructural de 50x20 de primera Calidad",
+        "imagen": "https://papelmadera2.mitiendanube.com/productos/monterrey-mesa1/",
+        "precio": 41600,
+        "categoria": "Mesas"  
+    },
+    {
+        "idx": 9,
+        "titulo": "Mesa Merida",
+        "descripcion": "Confeccionado con Pino y Caño estructural de 80x30 de primera Calidad",
+        "imagen": "https://papelmadera2.mitiendanube.com/productos/merida-mesa1/",
+        "precio": 45900,
+        "categoria": "Mesas"  
+    }
+]
