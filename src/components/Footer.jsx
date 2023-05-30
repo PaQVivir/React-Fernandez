@@ -1,7 +1,8 @@
-import Facebook from "./images/facebook.svg"
-import instagram from "./images/instagram.svg"
-import pinterest from "./images/pinterest.svg"
-import whatsapp from "./images/whatsapp.svg"
+import Facebook from "./images/facebook.svg";
+import instagram from "./images/instagram.svg";
+import pinterest from "./images/pinterest.svg";
+import whatsapp from "./images/whatsapp.svg";
+import {Link} from "react-router-dom";
 
 const Footer = () => {
     return (
@@ -23,13 +24,13 @@ const Footer = () => {
                     <h5>Nuestra Historia</h5>
                 </div>
                 <div className="col-md-2">
-                    <h5>Ofertas <a href="#"></a></h5>
+                    <h5>Ofertas <Link to={"#"}></Link></h5>
                 </div>
                 <div className="col-md-4 text-end">
-                    <a href="https://www.facebook.com/papel.madera.5832" target={"_blank"}> <img src={Facebook} alt={"Facebook"} width={30} /></a>
-                    <a href="https://www.instagram.com/papelmaderamza/" target={"_blank"}> <img src={instagram} alt={"Instagram"} width={30} /></a>
-                    <a href="https://ar.pinterest.com/papelmaderamza/" target={"_blank"}> <img src={pinterest} alt={"Pinterest"} width={30} /></a>
-                    <a href="https://api.whatsapp.com/send/?phone=5492613671345&text&type=phone_number&app_absent=0" target={"_blank"}> <img src={whatsapp} alt={"Whatsapp"} width={30} /></a>
+                    <Link to={"https://www.facebook.com/papel.madera.5832"} target={"_blank"}> <img src={Facebook} alt={"Facebook"} width={30} /></Link>
+                    <Link to={"https://www.instagram.com/papelmaderamza/"} target={"_blank"}> <img src={instagram} alt={"Instagram"} width={30} /></Link>
+                    <Link to={"https://ar.pinterest.com/papelmaderamza/"} target={"_blank"}> <img src={pinterest} alt={"Pinterest"} width={30} /></Link>
+                    <Link to={"https://api.whatsapp.com/send/?phone=5492613671345&text&type=phone_number&app_absent=0"} target={"_blank"}> <img src={whatsapp} alt={"Whatsapp"} width={30} /></Link>
                 </div>
             </div>
         </div>

@@ -3,72 +3,81 @@
         "idx": 1,
         "titulo": "Rack Mendoza",
         "descripcion": "Confeccionado con Pino o MDF de primera Calidad",
-        "imagen":"https://papelmadera2.mitiendanube.com/productos/mendoza-rack1/",
+        "imagen":"/assets/rackmendoza.png",
         "precio": 24900,
+        "stock": 5,
         "categoria": "Racks"
     },
     {
         "idx": 2,
         "titulo": "Rack San Juan",
         "descripcion": "Confeccionado con Pino o MDF de primera Calidad",
-        "imagen": "https://papelmadera2.mitiendanube.com/productos/san-juan-rack1/",
+        "imagen": "/assets/racksanjuan.png",
         "precio": 21900,
+        "stock": 6,
         "categoria": "Racks"  
     },
     {
         "idx": 3,
         "titulo": "Rack Cordoba",
         "descripcion": "Confeccionado con Pino o MDF de primera Calidad",
-        "imagen": "https://papelmadera2.mitiendanube.com/productos/cordoba-rack1/",
+        "imagen": "/assets/rackcordoba.png",
         "precio": 24400,
+        "stock": 10,
         "categoria": "Racks"  
     },
     {
         "idx": 4,
         "titulo": "Respaldar Quito",
         "descripcion": "Confeccionado con Pino de primera Calidad",
-        "imagen": "https://papelmadera2.mitiendanube.com/productos/quito-respaldo/",
+        "imagen": "/assets/respaldarquito.png",
         "precio": 34000,
+        "stock": 8,
         "categoria": "Respaldo"  
     },
     {
         "idx": 5,
         "titulo": "Respaldo Aniba",
         "descripcion": "Confeccionado con MDF de primera Calidad",
-        "imagen": "https://papelmadera2.mitiendanube.com/productos/aniba-respaldo/",
+        "imagen": "/assets/respaldaraniba.png",
         "precio": 39000,
+        "stock": 7,
         "categoria": "Respaldo"  
     },
     {
         "idx": 6,
-        "titulo": "Respaldo Manta",
+        "titulo": "Respaldo Ambato",
         "descripcion": "Confeccionado con MADERA DE PINO MACIZA 2 CM DE ESPESOR primera Calidad",
-        "imagen": "https://papelmadera2.mitiendanube.com/productos/manta-respaldo-sommier/",
+        "imagen": "/assets/respaldarambato.png",
         "precio": 31500,
+        "stock": 10,
         "categoria": "Respaldo"  
     },
     {
         "idx": 7,
         "titulo": "Mesa Guadalajara",
         "descripcion": "Confeccionado con Pino y Caño estructural de 30x30 de primera Calidad",
-        "imagen": "https://papelmadera2.mitiendanube.com/productos/guadalajara-mesa1/",
+        "imagen": "/assets/mesaguadalajara.png",
         "precio": 38000,
+        "stock": 12,
         "categoria": "Mesas"  
     },
     {
         "idx": 8,
         "titulo": "Mesa Monterrey",
         "descripcion": "Confeccionado con Pino y Caño estructural de 50x20 de primera Calidad",
-        "imagen": "https://papelmadera2.mitiendanube.com/productos/monterrey-mesa1/",
+        "imagen": "/assets/mesamonterreypng.png",
         "precio": 41600,
+        "stock": 10,
         "categoria": "Mesas"  
     },
     {
         "idx": 9,
         "titulo": "Mesa Merida",
         "descripcion": "Confeccionado con Pino y Caño estructural de 80x30 de primera Calidad",
-        "imagen": "https://papelmadera2.mitiendanube.com/productos/merida-mesa1/",
+        "imagen": "/assets/mesamerida.png",
         "precio": 45900,
+        "stock": 4,
         "categoria": "Mesas"  
     }
 ]
